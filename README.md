@@ -48,7 +48,11 @@ Once the environment is create, is recommended to follow the next steps:
 
 ## Authors
 
-Main authors of this paper and code are Luis Ibanez-Lissen (luibanez@pa.uc3m.es), Jose Maria de Fuentes (jfuentes@inf.uc3m.es) and Lorena Gonzalez Manzano (lgmanzan@inf.uc3m.es). Revision and collaboration of Joaquin Garcia-Alfaro (joaquin.garcia_alfaro@telecom-sudparis.eu)
+Main authors of this paper and code are Luis Ibanez-Lissen (luibanez@pa.uc3m.es), Jose Maria de Fuentes (jfuentes@inf.uc3m.es) and Lorena Gonzalez Manzano (lgmanzan@inf.uc3m.es), Joaquin Garcia-Alfaro (joaquin.garcia_alfaro@telecom-sudparis.eu).
+
+Author of the code:  Luis Ibanez-Lissen
+Revision of the code:  Jose Maria de Fuentes, Lorena Gonzalez Manzano, Joaquin Garcia-Alfaro 
+
 
 
 
