@@ -46,6 +46,23 @@ Once the environment is create, is recommended to follow the next steps:
     python attack_execution.py
    ```
 
+## Attack examples
+
+The following shows the attacks, mainly label flipping and backdoor attacks. We contaminate a victim task and try to transfer it to other tasks
+
+
+Label flipping:
+
+![Alt text](images/attack1.png "Label Flipping attack")
+
+Visual backdoor:
+
+![Alt text](images/attack2.png "Visual backdoor attack")
+
+Textual backdoor:
+
+![Alt text](images/attack3.png "Textual backdoor attack")
+
 ## Authors
 
 Main authors of this paper and code are Luis Ibanez-Lissen (luibanez@pa.uc3m.es), Jose Maria de Fuentes (jfuentes@inf.uc3m.es) and Lorena Gonzalez Manzano (lgmanzan@inf.uc3m.es), Joaquin Garcia-Alfaro (joaquin.garcia_alfaro@telecom-sudparis.eu).
