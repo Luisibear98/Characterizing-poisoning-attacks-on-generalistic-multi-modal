@@ -11,7 +11,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Import the instruction_based_attack function from the attacks module
 from attacks import instruction_based_attack, visual_backdoor_attack,label_manipulation_attack
 
-# Configuration dictionary to store attack parameters
+# Configuration dictionary to store attack parameters.
 config = {
     "dataset_name": "bigheiniuJ/Natural-Instruction",  # Name of the dataset
     "trigger": "folk",  # Trigger or pattern to insert into the data
